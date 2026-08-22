@@ -6,9 +6,9 @@ An ambitious developer dedicated to building cross-platform mobile applications 
 
 ### 📱 Featured Mobile Applications
 
-* **[Flutter School Delivery App](https://github.com)** - A comprehensive, production-ready school delivery ecosystem engineered using Flutter, Dart, and Google Firebase. Features 33+ responsive screens, precise input validation, and real-time backend logistics.
-* **[Flutter Advanced Chat UI](https://github.com)** - A modern and highly polished chat application interface built with Flutter, focusing on a premium UI/UX design with smooth cross-screen navigation.
-* **[Android Athkar App](https://github.com)** - A native digital companion for Muslims built using Java, optimized with a custom SQLite internal database and clean interface design.
+* **[Flutter School Delivery App]([https://github.com](https://github.com/AkramMonassar/Flutter-School-Delivery-App))** - A comprehensive, production-ready school delivery ecosystem engineered using Flutter, Dart, and Google Firebase. Features 33+ responsive screens, precise input validation, and real-time backend logistics.
+* **[Flutter Advanced Chat UI]([https://github.com](https://github.com/AkramMonassar/Flutter-Advanced-Chat-UI))** - A modern and highly polished chat application interface built with Flutter, focusing on a premium UI/UX design with smooth cross-screen navigation.
+* **[Android Athkar App]([https://github.com](https://github.com/AkramMonassar/Android-Athkar-App))** - A native digital companion for Muslims built using Java, optimized with a custom SQLite internal database and clean interface design.
 
 ### 🌐 Featured Web & Backend Projects
 
