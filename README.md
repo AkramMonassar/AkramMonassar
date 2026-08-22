@@ -5,15 +5,20 @@ An ambitious developer dedicated to building cross-platform mobile applications 
 ---
 
 ### 📱 Featured Mobile Applications
-* **[Android Athkar App](https://github.com)** - A comprehensive native digital companion for Muslims featuring daily Islamic supplications, optimized with a custom SQLite database and beautiful user experience.
+
+* **[Flutter School Delivery App](https://github.com)** - A comprehensive, production-ready school delivery ecosystem engineered using Flutter, Dart, and Google Firebase. Features 33+ responsive screens, precise input validation, and real-time backend logistics.
+* **[Flutter Advanced Chat UI](https://github.com)** - A modern and highly polished chat application interface built with Flutter, focusing on a premium UI/UX design with smooth cross-screen navigation.
+* **[Android Athkar App](https://github.com)** - A native digital companion for Muslims built using Java, optimized with a custom SQLite internal database and clean interface design.
 
 ### 🌐 Featured Web & Backend Projects
-* **[HalaStay - Hotel Booking System]** - *[In Progress]* A robust, secure, and modern hotel management and online reservation platform engineered using **Laravel 11**, **MySQL**, and modern architecture.
+
+* **[HalaStay - Hotel Booking System]** - *[In Progress]* A robust, secure, and modern hotel management and online reservation platform engineered using **Laravel 11**, **MySQL**, and modern MVC architecture.
 
 ---
 
 ### 🛠️ My Toolbox & Technical Skills
+
 * **Languages:** Java | PHP | Dart | JavaScript (ES6+)
-* **Frameworks & Frameworks:** Laravel | Flutter | React (Learning)
-* **Databases:** MySQL | SQLite
+* **Frameworks & Libraries:** Laravel | Flutter | React (Learning)
+* **Databases:** MySQL | SQLite | Firebase Firestore
 * **Tools & Platforms:** Git & GitHub | XAMPP | VS Code | Cmder
