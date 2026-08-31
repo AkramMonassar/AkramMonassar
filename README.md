@@ -13,7 +13,7 @@ A **complete e-commerce store** built with **PHP 8, MySQL & Bootstrap 5** — ev
 - 🔐 bcrypt auth, CSRF protection, rate limiting & password reset with email countdown
 - 🧑‍💼 Full admin dashboard: orders, products, users, coupons, backups & KPI reports (Chart.js + CSV export)
 - 📱 RTL responsive UI with animations, SEO & floating WhatsApp
-- 🎥 [Watch demo]([https://youtu.be/VIDEO_ID](https://youtu.be/gYdKw-2fKjY))
+- 🎥[![Watch demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/gYdKw-2fKjY)
 
 ### 🏨 [HalaStay – Hotel Booking System](#) — *[In Progress]*
 A robust, secure, and modern hotel management and online reservation platform engineered using Laravel 11, MySQL, and modern MVC architecture.
