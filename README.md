@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Akram Monassar | Full-Stack & Mobile Developer
+7+ years across software engineering, IT infrastructure & field data operations — also a certified technical trainer and university lecturer.
 
 An ambitious developer dedicated to building cross-platform mobile applications and scalable modern web solutions. I focus on writing clean, maintainable code and bringing innovative digital products to life — from native Android apps to complete PHP e-commerce platforms.
 
@@ -37,6 +38,8 @@ A robust, secure, and modern hotel management and online reservation platform en
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Professional Portfolio
+Bilingual (AR/EN) portfolio with dark/light themes, printable CV & project gallery.
+🔗 **Live Demo:** https://akrammportfolio.netlify.app — 📂 **Repo:** [portfolio](https://github.com/AkramMonassar/portfolio)
 
 ![Akram's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkramMonassar&show_icons=true&theme=dark)
