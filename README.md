@@ -42,4 +42,3 @@ A robust, secure, and modern hotel management and online reservation platform en
 Bilingual (AR/EN) portfolio with dark/light themes, printable CV & project gallery.
 🔗 **Live Demo:** https://akrammportfolio.netlify.app — 📂 **Repo:** [portfolio](https://github.com/AkramMonassar/AkramMPortfolio)
 
-![Akram's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkramMonassar&show_icons=true&theme=dark)
