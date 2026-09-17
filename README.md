@@ -14,10 +14,28 @@ A **complete e-commerce store** built with **PHP 8, MySQL & Bootstrap 5** — ev
 - 🔐 bcrypt auth, CSRF protection, rate limiting & password reset with email countdown
 - 🧑‍💼 Full admin dashboard: orders, products, users, coupons, backups & KPI reports (Chart.js + CSV export)
 - 📱 RTL responsive UI with animations, SEO & floating WhatsApp
-- 🎥[![Watch demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/gYdKw-2fKjY)
+- 🎥 [![Watch demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/gYdKw-2fKjY)
 
-### 🏨 [HalaStay – Hotel Booking System](#) — *[In Progress]*
-A robust, secure, and modern hotel management and online reservation platform engineered using Laravel 11, MySQL, and modern MVC architecture.
+### 🏨 [HalaStay – Hotel Booking Platform](https://github.com/AkramMonassar/halastay)
+![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?logo=laravel)
+![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vuedotjs)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?logo=docker)
+![Tests](https://img.shields.io/badge/Tests-20%20passing-brightgreen)
+![Release](https://img.shields.io/badge/Release-v1.0.0-blue)
+
+A **modern, secure hotel management and online reservation platform** built for the Saudi & Yemeni markets — solving double-booking conflicts and unifying manual payment review in one seamless flow:
+
+- 🎭 **Three-role architecture:** Tourist / Hotel Owner / Admin with Sanctum token auth & policy-based authorization
+- 🔍 **Smart search engine:** City/date/guests filters with live availability, capacity rules & conflict-free unit locking
+- 🏨 **Hotel lifecycle management:** Create → Admin approval → Live in search with real-time stats dashboard
+- 💳 **Manual payment review queue:** Receipt upload, owner approval/rejection with booking status sync
+- 🧾 **Complete booking flow:** Availability check → Reservation → Payment → Confirmation → Cancellation
+- ⚡ **Production-grade hardening:** Rate limiting, reference-data caching, security headers, CORS protection
+- 🧪 **20 automated PHPUnit tests** covering auth, availability conflicts, payment workflows & admin operations
+- 🐳 **One-command Docker deployment:** MySQL + API + Nginx frontend stack ready for production
+
+**Tech Stack:** Laravel 11, Vue 3 (Vite + Pinia), MySQL 8, Docker Compose, PHPUnit
 
 ---
 
@@ -32,13 +50,12 @@ A robust, secure, and modern hotel management and online reservation platform en
 ## 🧰 My Toolbox & Technical Skills
 
 - **Languages:** Java | PHP | Dart | JavaScript (ES6+)
-- **Frameworks & Libraries:** Laravel | Flutter | React (Learning) | Bootstrap 5
+- **Frameworks & Libraries:** Laravel | Vue.js | Flutter | React (Learning) | Bootstrap 5
 - **Databases:** MySQL | SQLite | Firebase Firestore
-- **Tools & Platforms:** Git & GitHub | XAMPP | VS Code | Cmder | PHPMailer | Chart.js
+- **Tools & Platforms:** Git & GitHub | Docker | XAMPP | VS Code | Cmder | PHPMailer | Chart.js | PHPUnit
 
 ---
 
 ## 🌐 Professional Portfolio
 Bilingual (AR/EN) portfolio with dark/light themes, printable CV & project gallery.
 🔗 **Live Demo:** https://akrammportfolio.netlify.app — 📂 **Repo:** [portfolio](https://github.com/AkramMonassar/AkramMPortfolio)
-
