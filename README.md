@@ -7,15 +7,6 @@ An ambitious developer dedicated to building cross-platform mobile applications 
 
 ## 🌟 Featured Web & Backend Projects
 
-### 🌿 [Edmark E-Commerce Platform](https://github.com/AkramMonassar/Edmark-E-Commerce-Platform)
-A **complete e-commerce store** built with **PHP 8, MySQL & Bootstrap 5** — evolved from a 2017 class project into a modern, secure platform:
-- 🛒 Live per-user cart (AJAX), smart quantity stepper, coupons & real-time stock management
-- 💳 Multi-method checkout: COD, 13 Yemeni e-wallets, exchange companies, card simulation (Luhn + brand detection) & BNPL
-- 🔐 bcrypt auth, CSRF protection, rate limiting & password reset with email countdown
-- 🧑‍💼 Full admin dashboard: orders, products, users, coupons, backups & KPI reports (Chart.js + CSV export)
-- 📱 RTL responsive UI with animations, SEO & floating WhatsApp
-- 🎥 [![Watch demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/gYdKw-2fKjY)
-
 ### 🏨 [HalaStay – Hotel Booking Platform](https://github.com/AkramMonassar/halastay)
 ![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?logo=laravel)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.x-4FC08D?logo=vuedotjs)
@@ -37,6 +28,15 @@ A **modern, secure hotel management and online reservation platform** built for 
 
 **Tech Stack:** Laravel 11, Vue 3 (Vite + Pinia), MySQL 8, Docker Compose, PHPUnit
 
+### 🌿 [Edmark E-Commerce Platform](https://github.com/AkramMonassar/Edmark-E-Commerce-Platform)
+A **complete e-commerce store** built with **PHP 8, MySQL & Bootstrap 5** — evolved from a 2017 class project into a modern, secure platform:
+- 🛒 Live per-user cart (AJAX), smart quantity stepper, coupons & real-time stock management
+- 💳 Multi-method checkout: COD, 13 Yemeni e-wallets, exchange companies, card simulation (Luhn + brand detection) & BNPL
+- 🔐 bcrypt auth, CSRF protection, rate limiting & password reset with email countdown
+- 🧑‍💼 Full admin dashboard: orders, products, users, coupons, backups & KPI reports (Chart.js + CSV export)
+- 📱 RTL responsive UI with animations, SEO & floating WhatsApp
+- 🎥 [![Watch demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/gYdKw-2fKjY)
+- 
 ---
 
 ## 📱 Featured Mobile Applications
