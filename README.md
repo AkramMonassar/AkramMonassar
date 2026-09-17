@@ -36,7 +36,6 @@ A **complete e-commerce store** built with **PHP 8, MySQL & Bootstrap 5** — ev
 - 🧑‍💼 Full admin dashboard: orders, products, users, coupons, backups & KPI reports (Chart.js + CSV export)
 - 📱 RTL responsive UI with animations, SEO & floating WhatsApp
 - 🎥 [![Watch demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/gYdKw-2fKjY)
-- 
 ---
 
 ## 📱 Featured Mobile Applications
